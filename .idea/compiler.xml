@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for BACK_STAGE_SERVER" enabled="true">
+        <sourceOutputDir name="../../english-learn/ape-admin/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../english-learn/ape-admin/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-admin" />
+      </profile>
+      <profile name="Annotation profile for ape-common" enabled="true">
+        <sourceOutputDir name="../../english-learn/ape-common/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../english-learn/ape-common/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-common" />
+      </profile>
+      <profile name="Annotation profile for ape-framework" enabled="true">
+        <sourceOutputDir name="../../english-learn/ape-framework/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../english-learn/ape-framework/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-framework" />
+      </profile>
+      <profile name="Annotation profile for ape-generator" enabled="true">
+        <sourceOutputDir name="../../english-learn/ape-generator/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../english-learn/ape-generator/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-generator" />
+      </profile>
+      <profile name="Annotation profile for ape-quartz" enabled="true">
+        <sourceOutputDir name="../../english-learn/ape-quartz/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../english-learn/ape-quartz/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-quartz" />
+      </profile>
+      <profile name="Annotation profile for ape-system" enabled="true">
+        <sourceOutputDir name="../../english-learn/ape-system/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../english-learn/ape-system/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-system" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
