@@ -1,6 +1,7 @@
-# Computer English Learn Platform (Monorepo)
+# code learning Computer English Learn Platform 
+# code learning计算机英语学习平台
 
-本仓库包含**后端 + 前台 + 管理端**三部分代码，已整理为标准结构，适合直接用 IDEA/Git 上传到 GitHub。
+本仓库包含**后端 + 前台 + 管理端**三部分代码，已整理为标准结构。
 
 ## 目录结构
 
@@ -50,7 +51,7 @@
 - `yarn`
 - `yarn serve`
 
-## 上传到 GitHub（建议）
+## 有帮助的话 star一下吧 蟹蟹！！！
 
-因为仓库根目录在 `english/`，建议你在 IDEA 里直接打开 `english/` 文件夹后上传，这样三套工程会在同一个仓库中，结构最清晰。
+
 
