@@ -1,4 +1,4 @@
-<h1 align="center">计算机英语学习平台</h1>
+<h1 align="center">code learning计算机英语学习平台</h1>
 
 <p align="center">
 Computer English Learn Platform
@@ -29,7 +29,7 @@ Computer English Learn Platform
 
 # 📖 项目简介
 
-**计算机英语学习平台（Computer English Learn Platform）** 是一个用于学习 **计算机专业英语与技术词汇** 的学习项目。
+**code learning计算机英语学习平台（Computer English Learn Platform）** 是一个用于学习 **计算机专业英语与技术词汇** 的学习项目。
 
 在软件开发、技术文档、开源社区以及国际技术交流中，**英语是最主要的语言**。
 对于计算机专业的学生和开发者来说，掌握计算机英语是非常重要的一项能力。
