@@ -1,0 +1,28 @@
+.record {
+    width: 100%;
+    height: 100%;
+    font-family: '黑体';
+}
+.record1 {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.record2 {
+    width: 80%;
+}
+.record11 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.record11>div{
+    margin-bottom: 20px;
+}
+.record12,.record13,.record14,.record15,.record16,.record17,.record18,.record19 {
+    width: 520px;
+    height: 350px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

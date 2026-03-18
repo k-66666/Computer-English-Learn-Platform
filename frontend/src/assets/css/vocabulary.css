@@ -1,0 +1,93 @@
+.vocabulary {
+    width: 100%;
+    height: 100%;
+}
+.search {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.search-content {
+    width: 80%;
+    background-color: #1D1D1D;
+}
+.search-input {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.search-btn {
+    background-color: #1c1f6ffa;
+    height: 40px;
+    margin-left: 20px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    cursor: pointer;
+}
+.select-key {
+    flex-wrap: wrap;
+    color: #ffffff;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.select-key>div {
+    width: 40px;
+    cursor: pointer;
+}
+.keys {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.keys-list {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.keys-item {
+    width: 33%;
+    height: 110px;
+    display: flex;
+}
+.keys-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #2F64DB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.keys-name {
+    margin-left: 20px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.keys-name1 {
+    font-size: 23px;
+}
+.keys-name2 {
+    width: 250px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 18px;
+}
+.page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,73 @@
+.literature {
+    width: 100%;
+    height: 100%;
+    font-family: '黑体';
+}
+.wenxian {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.wenxian-list {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.wenxian-item {
+    cursor: pointer;
+    display: flex;
+    margin-top: 50px;
+}
+.wenxian-item>img {
+    width: 400px;
+    height: 250px;
+}
+.wenxian-name {
+    font-size: 25px;
+}
+.wenxian-author {
+    font-size: 17px;
+    color: #666E76;
+    margin-top: 8px;
+}
+.wenxian-time {
+    font-size: 17px;
+    color: #666E76;
+    margin-top: 8px;
+}
+.wenxian-desc {
+    height: 155px;
+    overflow: hidden;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 17px;
+    color: #666E76;
+    margin-top: 8px;
+}
+.wenxian-name1 {
+    font-size: 25px;
+    text-align: right;
+}
+.wenxian-author1 {
+    font-size: 17px;
+    color: #666E76;
+    margin-top: 8px;
+    text-align: right;
+}
+.wenxian-time1 {
+    font-size: 17px;
+    color: #666E76;
+    margin-top: 8px;
+    text-align: right;
+}
+.wenxian-desc1 {
+    height: 155px;
+    overflow: hidden;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 17px;
+    color: #666E76;
+    margin-top: 8px;
+    text-align: right;
+}

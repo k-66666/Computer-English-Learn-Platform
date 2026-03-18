@@ -1,0 +1,90 @@
+.index {
+    width: 100%;
+    height: 100%;
+    font-family: '微软雅黑';
+}
+.carousel {
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+.desc {
+    position: absolute;
+    top: 40%;
+    left: 17%;
+    z-index: 999;
+}
+.desc1 {
+    font-size: 30px;
+    color: #ffffff;
+}
+.desc2 {
+    font-size: 60px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.desc3 {
+    font-size: 20px;
+    color: #ffffff;
+}
+.desc4 {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.menu-index {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.menu-list {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.menu-item {
+    width: 33%;
+    height: 200px;
+    background-color: #000000;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+.menu-item1 {
+    width: 33%;
+    height: 200px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.menu1 {
+    font-size: 25px;
+    color: #ffffff;
+}
+.menu2 {
+    font-size: 25px;
+    color: #ffffff;
+}
+.menu3 {
+    font-size: 25px;
+    color: #000000;
+}
+.menu4 {
+    font-size: 25px;
+    color: #6B747C;
+}
+.icon-class {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top:10px;
+    right:20px;
+    transform: rotate(315deg);
+}

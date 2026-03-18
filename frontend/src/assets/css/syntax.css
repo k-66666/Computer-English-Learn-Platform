@@ -1,0 +1,39 @@
+.syntax {
+    width: 100%;
+    height: 100%;
+    font-family: '黑体';
+}
+.juzi {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.juzi-list {
+    width: 80%;
+}
+.juzi-item {
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+    height: 70px;
+    background-color: #F1F1F2;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.juzi-item>div {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 95%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.juzi-info>div {
+    margin-top: 15px;
+    font-size: 16px;
+}
+.juzi-fenxi>div {
+    margin-top: 8px;
+}
